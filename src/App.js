@@ -6,12 +6,16 @@ import recomend from './Components/recomend';
 
 
 function App() {
+  
 
 const fetchmovie = async() => {
   const movie = await getmovie(550);
   const popular = await getpopular();
-  console.log(popular);
+  console.log(movie);
+  console.log() 
+  
 }
+
 
 useEffect(()=>{
 fetchmovie();
@@ -20,8 +24,9 @@ fetchmovie();
 
   return (
     <div className="App">
-
-    </div>
+      <p> <img src="https://image.tmdb.org/t/p/w500/kqjL17yufvn9OVLyXYpvtyrFfak.jpg"></img></p>
+      </div>
+  
   );
 }
 
