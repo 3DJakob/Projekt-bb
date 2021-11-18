@@ -16,9 +16,11 @@ const getpopular = async () =>  {
     try {
      
         
-        const response = await window.fetch('https://api.themoviedb.org/3/movie/popular?api_key=618a4d3048a1a1f797c014affaf110b4&language=en-US&page=1');
-        const movie = await response.json();
+        // const response = await window.fetch('https://api.themoviedb.org/3/movie/popular?api_key=618a4d3048a1a1f797c014affaf110b4&language=en-US&page=1');
+        // const movie = await response.json();
 
+       const response = await window.fetch('https://api.themoviedb.org/3/configuration?api_key=618a4d3048a1a1f797c014affaf110b4');
+        const movie = await response.json();
    
       return movie;
 
@@ -36,7 +38,6 @@ const getpopular = async () =>  {
 
   //https://api.themoviedb.org/3/movie/505/images?api_key=618a4d3048a1a1f797c014affaf110b4&language=en-US
 
-       // const response = await window.fetch('https://api.themoviedb.org/3/movie/'+movieID+'/images?api_key=618a4d3048a1a1f797c014affaf110b4&language=en-US');
-        // const movie = await response.json();
+
         
       //https://api.themoviedb.org/3/movie/505/images?api_key=618a4d3048a1a1f797c014affaf110b4&language=en-US
