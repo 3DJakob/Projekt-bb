@@ -20,8 +20,8 @@ const getpopular = async () =>  {
         // const movie = await response.json();
 
        const response = await window.fetch('https://api.themoviedb.org/3/configuration?api_key=618a4d3048a1a1f797c014affaf110b4');
-        const movie = await response.json();
-   
+       const movie = await response.json();
+        
       return movie;
 
     } catch (error) {

@@ -1,4 +1,4 @@
-
+/* 
 *{
   box-sizing: border-box;
 
@@ -15,7 +15,7 @@ body {
   flex-direction: column;
   
 }
-header{
+.header{
   background-color:black;
   display: flex;
   padding:1rem;
@@ -110,3 +110,4 @@ header{
   color: red;
   
 } */
+ 
