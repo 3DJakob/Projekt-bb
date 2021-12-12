@@ -61,7 +61,7 @@ export const Search=()=> {
         // kolla upp när man bara trycker enter utan någon text.
       <><header>
           
-              <input className="search" type="search" src={image2} placeholder= "Search for movietitle..." value={searchTerm} onChange={handleOnChange} />
+              <input className="search" type="search" placeholder= "Search for movietitle..." value={searchTerm} onChange={handleOnChange} />
         
       </header>
       <div className="movie-container">
