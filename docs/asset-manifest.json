@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.397c0f22.chunk.js",
-    "main.js.map": "/static/js/main.397c0f22.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7ca936e2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7ca936e2.js.map",
-    "static/js/2.dc37c2f3.chunk.js": "/static/js/2.dc37c2f3.chunk.js",
-    "static/js/2.dc37c2f3.chunk.js.map": "/static/js/2.dc37c2f3.chunk.js.map",
-    "static/js/3.8f8f1063.chunk.js": "/static/js/3.8f8f1063.chunk.js",
-    "static/js/3.8f8f1063.chunk.js.map": "/static/js/3.8f8f1063.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.dc37c2f3.chunk.js.LICENSE.txt": "/static/js/2.dc37c2f3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/BioBuddy/static/css/main.ed8aea60.chunk.css",
+    "main.js": "/BioBuddy/static/js/main.57b2093d.chunk.js",
+    "main.js.map": "/BioBuddy/static/js/main.57b2093d.chunk.js.map",
+    "runtime-main.js": "/BioBuddy/static/js/runtime-main.7bb4e3a4.js",
+    "runtime-main.js.map": "/BioBuddy/static/js/runtime-main.7bb4e3a4.js.map",
+    "static/js/2.8261f51d.chunk.js": "/BioBuddy/static/js/2.8261f51d.chunk.js",
+    "static/js/2.8261f51d.chunk.js.map": "/BioBuddy/static/js/2.8261f51d.chunk.js.map",
+    "static/js/3.8cb77a9c.chunk.js": "/BioBuddy/static/js/3.8cb77a9c.chunk.js",
+    "static/js/3.8cb77a9c.chunk.js.map": "/BioBuddy/static/js/3.8cb77a9c.chunk.js.map",
+    "index.html": "/BioBuddy/index.html",
+    "static/css/main.ed8aea60.chunk.css.map": "/BioBuddy/static/css/main.ed8aea60.chunk.css.map",
+    "static/js/2.8261f51d.chunk.js.LICENSE.txt": "/BioBuddy/static/js/2.8261f51d.chunk.js.LICENSE.txt",
+    "static/media/Logga.cc5f396b.png": "/BioBuddy/static/media/Logga.cc5f396b.png",
+    "static/media/logo.6ce24c58.svg": "/BioBuddy/static/media/logo.6ce24c58.svg",
+    "static/media/mylist.3a28bf92.png": "/BioBuddy/static/media/mylist.3a28bf92.png",
+    "static/media/star.2d8c5677.png": "/BioBuddy/static/media/star.2d8c5677.png",
+    "static/media/tmdb.d59a5253.png": "/BioBuddy/static/media/tmdb.d59a5253.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ca936e2.js",
-    "static/js/2.dc37c2f3.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.397c0f22.chunk.js"
+    "static/js/runtime-main.7bb4e3a4.js",
+    "static/js/2.8261f51d.chunk.js",
+    "static/css/main.ed8aea60.chunk.css",
+    "static/js/main.57b2093d.chunk.js"
   ]
 }
