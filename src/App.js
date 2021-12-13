@@ -8,7 +8,7 @@ import { Watchlist } from './Components/WatchList';
 import Home from './Components/Homepage';
 import { MovieInfo } from './Components/Movieinfo';
 import Movie from './Api/Movie';
-import Recomend from './Components/Recomend';
+import Recomend from './Components/RecomendTest';
 import Recomendspec from './Components/Recomendspec';
 import { GlobalProvider } from './Components/GlobalState';
 import {
